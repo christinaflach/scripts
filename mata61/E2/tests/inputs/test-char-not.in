@@ -1,0 +1,10 @@
+// testa ! e != 
+
+if !(a != b) then 
+return 0;
+
+// fim 
+
+
+
+
