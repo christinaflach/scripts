@@ -1,0 +1,8 @@
+// TP2 test: incr operator should be unary
+// int foo;
+// int bla;
+void main(void) {
+// foo = 1;
+// bla = 2;
+ bla++foo;
+}

@@ -1,0 +1,7 @@
+(1,KEY,"void")
+(1,ID,"main")
+(1,SYM,"(")
+(1,KEY,"void")
+(1,SYM,")")
+(1,SYM,"{")
+(2,ERROR,"&")

@@ -1,0 +1,6 @@
+// incr, decr
+// int foo;
+void main(void) {
+// foo = 1;
+ --foo;
+}

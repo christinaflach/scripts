@@ -1,0 +1,9 @@
+// enum
+enum rgb { red, green, blue };
+enum rgb color;
+
+void main(void) {
+    enum rgb { red, green, blue } lastcolor;
+    lastcolor = red;
+    color = green;
+}

@@ -1,0 +1,6 @@
+// TP2 test: incr operator
+// int foo;
+void main(void) {
+// foo = 1;
+ foo--;
+}

@@ -1,0 +1,10 @@
+// const
+int a;
+int const min = 1;
+int const max = 10;
+
+void main(void) {
+    int c;
+    a = min;
+    c = max;
+}

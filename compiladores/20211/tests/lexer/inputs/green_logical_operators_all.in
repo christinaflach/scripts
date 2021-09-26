@@ -1,0 +1,16 @@
+// TP2 test: operadores logicos
+// int a;
+// int b;
+// int c;
+// int const min = 0;
+// int const max = 10;
+
+void main(void) {
+   // ler a e b; 
+   // c = 0;
+
+   if ((a >= min) && (a < max) || !b)
+      c = a + b;
+   
+   // imprimir c;
+}

@@ -1,0 +1,3 @@
+// TP2 test: enum type decl with type keyword instead of ID
+enum int { red, green, blue };
+void main(void) {}

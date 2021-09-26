@@ -1,0 +1,27 @@
+➜  TP1 git:(main) ✗ grep -r "Accuracy = (TP" TP1/ | grep "log"   
+TP1//tp1-moreiralucascc/tp1_test.log:Accuracy = (TP + TN) / (TP + TN + FP + FN) = 100
+TP1//tp1-Beckhauser1/tp1_test.log:Accuracy = (TP + TN) / (TP + TN + FP + FN) = 100
+TP1//tp1-brenorosas/tp1_test.log:Accuracy = (TP + TN) / (TP + TN + FP + FN) = 100
+TP1//tp1-eugeniodias5/tp1_test.log:Accuracy = (TP + TN) / (TP + TN + FP + FN) = 48
+TP1//tp1-danilo4lves/tp1_test.log:Accuracy = (TP + TN) / (TP + TN + FP + FN) = 68
+TP1//tp1-araujocristian/tp1_test.log:Accuracy = (TP + TN) / (TP + TN + FP + FN) = 100
+TP1//tp1-acrodrigo/tp1_test.log:Accuracy = (TP + TN) / (TP + TN + FP + FN) = 100
+TP1//tp1-anaclaramsb/tp1_test.log:Accuracy = (TP + TN) / (TP + TN + FP + FN) = 100
+TP1//tp1-AlbertoLucass/tp1_test.log:Accuracy = (TP + TN) / (TP + TN + FP + FN) = 100
+TP1//tp1-icaroluan/tp1_test.log:Accuracy = (TP + TN) / (TP + TN + FP + FN) = 100
+TP1//tp1-lucasmarotta/tp1_test.log:Accuracy = (TP + TN) / (TP + TN + FP + FN) = 100
+TP1//tp1-PedroFrCa/tp1_test.log:Accuracy = (TP + TN) / (TP + TN + FP + FN) = 97
+TP1//tp1-kokubum/tp1_test.log:Accuracy = (TP + TN) / (TP + TN + FP + FN) = 88
+TP1//tp1-fabriciosike/tp1_test.log:Accuracy = (TP + TN) / (TP + TN + FP + FN) = 100
+TP1//tp1-DouglasRFLeite/tp1_test.log:Accuracy = (TP + TN) / (TP + TN + FP + FN) = 100
+TP1//tp1-cesaraugustobispo/tp1_test.log:Accuracy = (TP + TN) / (TP + TN + FP + FN) = 100
+TP1//tp1-alexandrefscampos/tp1_test.log:Accuracy = (TP + TN) / (TP + TN + FP + FN) = 100
+TP1//tp1-alexxsleite/tp1_test.log:Accuracy = (TP + TN) / (TP + TN + FP + FN) = 100
+TP1//tp1-liooh/tp1_test.log:Accuracy = (TP + TN) / (TP + TN + FP + FN) = 80
+TP1//tp1-viniciusmacedodev/tp1_test.log:Accuracy = (TP + TN) / (TP + TN + FP + FN) = 100
+TP1//tp1-danisan360/tp1_test.log:Accuracy = (TP + TN) / (TP + TN + FP + FN) = 97
+TP1//tp1-teuaguiar01/tp1_test.log:Accuracy = (TP + TN) / (TP + TN + FP + FN) = 100
+TP1//tp1-ClovisReis/tp1_test.log:Accuracy = (TP + TN) / (TP + TN + FP + FN) = 100
+TP1//tp1-leviwc/tp1_test.log:Accuracy = (TP + TN) / (TP + TN + FP + FN) = 97
+
+

@@ -1,0 +1,5 @@
+// Testa enum
+
+enum boolean {False, True};
+
+

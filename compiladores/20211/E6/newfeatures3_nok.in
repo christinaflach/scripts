@@ -1,0 +1,8 @@
+// operadores logicos
+int a;
+
+void main(void) {
+   a = 55;
+   if (a >= min) && (a < max)
+      return;
+}

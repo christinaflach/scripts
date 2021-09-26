@@ -1,0 +1,13 @@
+// operadores logicos
+
+int a;
+int b;
+int const min = 5;
+int const max = 10;
+
+void main(void) {
+   int c;
+   // ler a e b; 
+   if ((a >= min) && (a < max) || (!b))
+      c = a + b;
+}

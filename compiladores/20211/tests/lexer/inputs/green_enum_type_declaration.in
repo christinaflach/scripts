@@ -1,0 +1,11 @@
+// TP2 test: enum type declaration
+
+enum rgb {red, green, blue}; // enum type declaration (rgb)
+
+void main(void) {
+//    enum rgb color; // enum var declaration (color)
+//    enum rgb lastcolor;
+//    lastcolor = red;
+//    color = green;
+}
+

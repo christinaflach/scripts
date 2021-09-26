@@ -1,0 +1,3 @@
+// TP2 test: enum type decl with keyword in constant list
+enum rgb {red,green, int};
+void main(void) {}

@@ -1,0 +1,3 @@
+// TP2 test: enum type decl without ID
+enum { red, green, blue };
+void main(void) {}

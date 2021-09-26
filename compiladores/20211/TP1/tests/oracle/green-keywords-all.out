@@ -1,0 +1,8 @@
+(1,KEY,"const")
+(2,KEY,"enum")
+(3,KEY,"if")
+(4,KEY,"else")
+(5,KEY,"int")
+(6,KEY,"void")
+(7,KEY,"return")
+(8,KEY,"while")

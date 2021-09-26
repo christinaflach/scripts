@@ -1,0 +1,7 @@
+// const
+const int = 1;
+
+void main(void) {
+    int c;
+    c = max;
+}

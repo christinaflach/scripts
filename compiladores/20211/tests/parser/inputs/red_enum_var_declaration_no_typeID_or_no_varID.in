@@ -1,0 +1,4 @@
+// TP2 test: enum var decl without type ID or VAR ID;
+enum rgb;
+void main(void) {}
+

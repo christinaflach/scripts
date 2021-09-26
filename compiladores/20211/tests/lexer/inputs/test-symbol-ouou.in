@@ -1,0 +1,5 @@
+// testa ou ou 
+
+if (a > b) || ( b < c) then return 0;
+
+

@@ -1,0 +1,8 @@
+(3,KEY,"enum")
+(3,ID,"boolean")
+(3,SYM,"{")
+(3,ID,"False")
+(3,SYM,",")
+(3,ID,"True")
+(3,SYM,"}")
+(3,SYM,";")
