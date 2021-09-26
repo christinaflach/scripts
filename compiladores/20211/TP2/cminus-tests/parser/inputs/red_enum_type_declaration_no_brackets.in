@@ -1,0 +1,4 @@
+// TP2 test: enum type decl without brackets
+enum rgb;
+
+void main(void) {}

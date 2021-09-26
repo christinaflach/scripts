@@ -1,0 +1,10 @@
+[program 
+[enum-type-declaration [rgb]
+[enum-consts 
+[enum-const [red]][enum-const [green]][enum-const [blue]]]
+]
+[fun-declaration [void][main]
+[params]
+[compound-stmt 
+]]
+]

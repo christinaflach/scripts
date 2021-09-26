@@ -1,0 +1,4 @@
+// TP2 test: no type in constant declaration
+const i = 1;
+
+void main(void) {}

@@ -1,0 +1,12 @@
+
+[program
+[const-declaration
+[int]
+[min]
+[1]]
+[fun-declaration
+[void]
+[main]
+[params]
+[compound-stmt]]]
+

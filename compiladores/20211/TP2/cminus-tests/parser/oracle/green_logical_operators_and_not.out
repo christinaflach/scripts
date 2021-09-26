@@ -1,0 +1,14 @@
+[program 
+[fun-declaration [void][main]
+[params]
+[compound-stmt 
+[if-else-stmt 
+[&& 
+[>= [var [a]][var [min]]]
+[! 
+[> [var [a]][var [max]]]]]
+[= [var [c]]
+[+ [var [a]][var [b]]]]]
+
+]]
+]

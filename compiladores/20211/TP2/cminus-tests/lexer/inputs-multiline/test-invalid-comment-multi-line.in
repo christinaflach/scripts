@@ -1,0 +1,9 @@
+aaa // /* not visible
+//to the
+//scanner because */ 
+bbb 
+/* am i a comment? 
+comment */
+ccc /* 
+ddd
+

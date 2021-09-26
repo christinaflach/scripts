@@ -1,0 +1,16 @@
+// TP2 test: not_logical_operator_should_be_prefixed
+// int a
+// int b;
+// int c;
+// int const min = 0;
+// int const max = 10;
+
+void main(void) {
+   // ler a e b; 
+   // c = 0;
+
+   if (a!)
+      c = a + b;
+   
+   // imprimir c;
+}

@@ -1,0 +1,7 @@
+[program 
+[enum-var-declaration [rgb][color]]
+[fun-declaration [void][main]
+[params]
+[compound-stmt 
+]]
+]

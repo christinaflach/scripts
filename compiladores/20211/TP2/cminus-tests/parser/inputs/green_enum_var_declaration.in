@@ -1,0 +1,3 @@
+// TP2 test: enum var decl 
+enum rgb color;
+void main(void) {}

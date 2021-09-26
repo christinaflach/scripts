@@ -1,0 +1,11 @@
+// test-02
+
+int main() {
+
+    int a, b = 1;
+
+    if (a)
+        return a;
+    else
+        return a % b;
+}
