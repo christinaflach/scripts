@@ -1,10 +1,10 @@
 #!/bin/bash
 # ----------------------------------------------------------------------
-# download_repo.sh – Download a public repository from GitHub, GitLab,
+# _download_repo.sh – Download a public repository from GitHub, GitLab,
 #                    Zenodo or Figshare.
 #
 # Usage:
-#   ./download_repo.sh <url>
+#   ./_download_repo.sh <url>
 #
 # The script:
 #   1. Validates that the argument looks like a supported repository URL.

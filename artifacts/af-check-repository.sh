@@ -1,4 +1,3 @@
-
 #!/usr/bin/env bash
 # check_license.sh
 # Usage: ./check_license.sh [directory]
@@ -11,6 +10,9 @@
 #
 # The script prints one line per test, ending with "PASS" or "FAIL".
 # At the end it prints an overall summary.
+
+RED='\033[0;31m'
+NC='\033[0m' # No Color
 
 set -euo pipefail
 
@@ -99,7 +101,7 @@ if [ ${#license_file[@]} -eq 1 ] && [ -s "${license_file[0]}" ]; then
        contains_license_url "$license_text"; then
         printf "%-25s %s\n" "LICENSE content" "PASS"
     else
-        printf "%-25s %s\n" "LICENSE content" "FAIL"
+        printf "%-25s %s\n" "LICENSE content" "${RED}FAIL${NC}"
     fi
 fi
 
